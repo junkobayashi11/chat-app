@@ -60,7 +60,7 @@
   padding: 46px 40px 0px;
 }
 
-.chat-footer {
+.form {
   background-color: #DDDDDD;
   height: 90px;
   padding: 20px 40px;
@@ -145,7 +145,7 @@
   display: none;
 }
 
-.form-image {
+.form-image{
   font-size: 12px;
   background-color: lightblue;
   color: white;
